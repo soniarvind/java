@@ -5,5 +5,6 @@ public class Calculate {
 		System.out.println("Adding values: " + var1 + " + " + var2);
 		return var1 + var2;
 		
+		
 	}
 }
